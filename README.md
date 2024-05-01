@@ -1,5 +1,7 @@
 # Minesweeper C++ Project
 
+![Game Screen]([image_url](https://github.com/pesricha/Minesweeper/blob/master/image.png))
+
 ## Overview
 
 This project is a console-based implementation of the classic game Minesweeper, developed in C++. Minesweeper is a game where players uncover hidden mines on a grid by strategically clicking on cells without detonating any mines.
