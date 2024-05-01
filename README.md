@@ -1,6 +1,6 @@
 # Minesweeper C++ Project
 
-![Game Screen]([image_url](https://github.com/pesricha/Minesweeper/blob/master/image.png))
+![Game Screen](https://github.com/pesricha/Minesweeper/blob/master/image.png)
 
 ## Overview
 
